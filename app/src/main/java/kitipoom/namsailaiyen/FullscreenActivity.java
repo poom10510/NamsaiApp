@@ -99,7 +99,7 @@ public class FullscreenActivity extends AppCompatActivity {
         mContentView.loadUrl(
                 //"http://www.nekopost.net/"
                 //"https://www.google.co.th/"
-               "http://128.199.248.91:8080/"
+               "http://128.199.155.16:8080/"
         );
 
         // Set up the user interaction to manually show or hide the system UI.
